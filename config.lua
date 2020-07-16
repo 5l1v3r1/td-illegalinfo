@@ -1,11 +1,11 @@
-Config					= {}
-Config.Locale			= 'tr'
-Config.MarkerSize   	= {x = 3.0, y = 3.0, z = 1.0}
-Config.openHours		= 1
-Config.closeHours		= 24
-Config.Hours 			= true
-Config.NPCEnable		= true
-Config.GPS 				= true
+Config = {}
+Config.Locale = 'tr'
+Config.MarkerSize = {x = 3.0, y = 3.0, z = 1.0}
+Config.openHours = 1
+Config.closeHours = 24
+Config.Hours = true
+Config.NPCEnable = true
+Config.GPS = true
 
 Config.MaddeX = 2500
 
